@@ -1,0 +1,13 @@
+commit 0d79559d394a00abf551a158463089243fb0af1b
+Author: Ivette Nava <126045075+ninoxander@users.noreply.github.com>
+Date:   Tue May 13 22:02:59 2025 -0600
+
+    Actualizando el README.md
+    
+    Completar el readme principal.
+
+commit aeafee1008fef48c2185cbae2278e5322d241b62
+Author: ninoxander <za220111414@zapopan.tecmm.edu.mx>
+Date:   Tue May 13 22:01:16 2025 -0600
+
+    :tada: Commit inicial del proyecto, contiene las funcionalidades necesarias
